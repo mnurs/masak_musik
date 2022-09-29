@@ -23,7 +23,7 @@
         <img class='img-fluid w-100' src="assets/images/brosur-masmus-belakang.png" alt="" />
     </div>
     <div class="container">
-        <center><a class="btn btn-style btn-primary mt-sm-5 mt-4 mr-2" href="/contact">Kontak</a></center>
+        <center><a class="btn btn-style btn-primary mt-sm-5 mt-4 mr-2" href="https://api.whatsapp.com/send?phone=6285642011047">Book Now</a></center>
     </div>
   <!-- //register festival breadcrumb -->
   <!-- register festival block -->
