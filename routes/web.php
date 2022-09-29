@@ -44,6 +44,13 @@ Route::get('/register-fest', function () {
     ]);
 });
 
+Route::get('/masak-musik-entertainment', function () {
+    return view('entertainment', [
+        'title' => 'masak-musik-entertainment'
+    ]);
+});
+
+
 Route::post('/register-fest', [FestController::class, 'store']);
 
 Route::get('/login', [App\Http\Controllers\Auth\LoginController::class, 'showLoginForm'])->name('login');

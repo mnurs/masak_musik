@@ -11,10 +11,10 @@
                             <div class="banner-info">
                                 <div class="container">
                                     <div class="banner-info-bg">
-                                        <h5>Festival Band Hari Jadi Pati 2022</h5>
-                                        <p class="mt-4 pr-lg-4">Formulir pendaftaran festival band hari jadi Pati 2022</p>
-                                        <a class="btn btn-style btn-primary mt-sm-5 mt-4 mr-2" href="/register-fest">
-                                            Daftar</a>
+                                        <h5>Masak Musik Entertainment</h5>
+                                        <p class="mt-4 pr-lg-4">Every moment is a treasure. Let’s dance in the treasure with us!</p>
+                                        <a class="btn btn-style btn-primary mt-sm-5 mt-4 mr-2" href="/masak-musik-entertainment">
+                                        Selengkapnya</a>
                                     </div>
                                 </div>
                             </div>
